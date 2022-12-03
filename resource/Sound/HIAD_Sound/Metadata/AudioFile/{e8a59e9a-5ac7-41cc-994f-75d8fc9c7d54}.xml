@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e8a59e9a-5ac7-41cc-994f-75d8fc9c7d54}">
+		<property name="assetPath">
+			<value>Footstep_GiantInsect08.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.37249433106575963</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ef14b30b-1c7a-4c74-a81f-159458061e4a}</destination>
+		</relationship>
+	</object>
+</objects>

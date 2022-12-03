@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e5c30b18-d371-4b38-a0d9-d9afed58197c}">
+		<property name="assetPath">
+			<value>SFX_MPC_Djump_001.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.1737641723356009</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{fedde217-7611-43df-8c5f-11bb5b944d63}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,26 @@
+{
+	"x": 12096,
+	"y": 3072,
+	"width": 1920,
+	"height": 1080,
+	"iid": "c77d3c60-5110-11ed-8b02-355145f5b5fb",
+	"layers": [
+		"IntGrid.png",
+		"Tiles.png"
+	],
+	"entities": {
+		"DefaultSavePoint": [
+			{
+				"id": "DefaultSavePoint",
+				"iid": "ddb074a0-5110-11ed-8cc9-1bda48a23f54",
+				"layer": "Entities",
+				"x": 1632,
+				"y": 992,
+				"width": 64,
+				"height": 64,
+				"color": 9755059,
+				"customFields" : {}
+			}
+		]
+	}
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{2fa401eb-5e20-4f91-97af-45dfac976034}">
+		<property name="assetPath">
+			<value>Bike_Hit_BushLeaves01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.3351473922902495</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ef14b30b-1c7a-4c74-a81f-159458061e4a}</destination>
+		</relationship>
+	</object>
+</objects>

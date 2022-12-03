@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{c92ecb93-a107-4f81-930c-3eab0ccc7ac0}">
+		<property name="name">
+			<value>SFX_Creature_Mag_Spawn</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1adcff09-534d-4a92-9aab-052ee829518a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{0f495154-0356-44ca-a622-59cbcc71c625}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{0f495154-0356-44ca-a622-59cbcc71c625}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Fly</value>
+			<value>착지</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

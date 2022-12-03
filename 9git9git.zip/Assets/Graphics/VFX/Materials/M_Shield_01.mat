@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_Shield_01
+  m_Shader: {fileID: 4800000, guid: 68de8e8505bec4c49ad664a416c92a35, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlphaTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _T_Cloud_03:
+        m_Texture: {fileID: 2800000, guid: 255a6c40cc2354942bf6aa12cac9d325, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _T_Line_01:
+        m_Texture: {fileID: 2800000, guid: 1986d950edfef0d4ba188c05c400362e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _T_hexagon_01:
+        m_Texture: {fileID: 2800000, guid: 839b3925dd87137489853510b3f54c46, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AlphaCutoff: 0.5
+    - _BGInten: 0.61
+    - _EnableExternalAlpha: 0
+    - _Fresnel_Power: 3.09
+    - _Fresnel_Scale: 0.9
+    - _LineSwitch: 0
+    - _MainInten: 1
+    - _Main_Edge: 0.26
+    - _Main_Fege: 0.15
+    - _Main_Inten: 2.44
+    - _Main_Power: 3.24
+    - _Main_Scale: 1
+    - _Main_Tiling: 7
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _Specular: 1
+    m_Colors:
+    - _BGColor: {r: 0.53333336, g: 0.74952346, b: 1, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Flip: {r: 1, g: 1, b: 1, a: 1}
+    - _LineColor: {r: 0.4764151, g: 0.6318195, b: 1, a: 0}
+    - _LineOfffset: {r: 1, g: 3.99, b: 0, a: 0}
+    - _LineSpeed: {r: 0.1, g: 0, b: 0, a: 0}
+    - _MainColor: {r: 0.2783019, g: 0.5420992, b: 1, a: 0}
+    - _Main_Color: {r: 0.2216981, g: 0.5521648, b: 1, a: 0}
+    - _NoiseSpeed: {r: 0.1, g: -0.1, b: 0, a: 0}
+    - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SubColor: {r: 0.3160377, g: 0.6920726, b: 1, a: 0}
+  m_BuildTextureStacks: []

@@ -1,0 +1,54 @@
+{
+	"x": 2496,
+	"y": 4096,
+	"width": 1920,
+	"height": 1024,
+	"iid": "048841d0-2a00-11ed-92ae-ab48d450f9a0",
+	"layers": [
+		"IntGrid.png",
+		"Tiles.png"
+	],
+	"entities": {
+		"ReWord": [
+			{
+				"id": "ReWord",
+				"iid": "58f5a480-5110-11ed-8b02-911f0d2fc4d4",
+				"layer": "Entities",
+				"x": 800,
+				"y": 224,
+				"width": 64,
+				"height": 64,
+				"color": 8597782,
+				"customFields": {
+					"Reword": "HP"
+				}
+			}
+		],
+		"Monster_Senot": [
+			{
+				"id": "Monster_Senot",
+				"iid": "5ed872b0-5110-11ed-8b02-b9cb874662f3",
+				"layer": "Entities",
+				"x": 1376,
+				"y": 736,
+				"width": 64,
+				"height": 64,
+				"color": 9755059,
+				"customFields" : {}
+			}
+		],
+		"DefaultSavePoint": [
+			{
+				"id": "DefaultSavePoint",
+				"iid": "d1149c80-5110-11ed-8cc9-8531655ef0f5",
+				"layer": "Entities",
+				"x": 32,
+				"y": 544,
+				"width": 64,
+				"height": 64,
+				"color": 9755059,
+				"customFields" : {}
+			}
+		]
+	}
+}

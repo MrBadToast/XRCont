@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{1c8ff431-1332-48b3-bd1c-ad40f3d8ea3b}">
+		<property name="assetPath">
+			<value>[Track 15] Cute Sound Effect.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{fedde217-7611-43df-8c5f-11bb5b944d63}</destination>
+		</relationship>
+	</object>
+</objects>

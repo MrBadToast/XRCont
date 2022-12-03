@@ -1,0 +1,54 @@
+{
+	"x": 3840,
+	"y": 1664,
+	"width": 2496,
+	"height": 1408,
+	"iid": "ea309c50-2a00-11ed-92a7-658ee23d9d8d",
+	"layers": [
+		"IntGrid.png",
+		"Tiles.png"
+	],
+	"entities": {
+		"ReWord": [
+			{
+				"id": "ReWord",
+				"iid": "fadbc170-2a00-11ed-92ae-d18307578958",
+				"layer": "Entities",
+				"x": 128,
+				"y": 448,
+				"width": 64,
+				"height": 64,
+				"color": 8597782,
+				"customFields": {
+					"Reword": "HP"
+				}
+			}
+		],
+		"DefaultSavePoint": [
+			{
+				"id": "DefaultSavePoint",
+				"iid": "b0a1e110-5110-11ed-8cc9-99105201d460",
+				"layer": "Entities",
+				"x": 32,
+				"y": 928,
+				"width": 64,
+				"height": 64,
+				"color": 9755059,
+				"customFields" : {}
+			}
+		],
+		"Power_DoubleJump": [
+			{
+				"id": "Power_DoubleJump",
+				"iid": "089f5850-5110-11ed-8cc9-bdd360712b58",
+				"layer": "Entities",
+				"x": 1568,
+				"y": 352,
+				"width": 64,
+				"height": 64,
+				"color": 9755059,
+				"customFields" : {}
+			}
+		]
+	}
+}

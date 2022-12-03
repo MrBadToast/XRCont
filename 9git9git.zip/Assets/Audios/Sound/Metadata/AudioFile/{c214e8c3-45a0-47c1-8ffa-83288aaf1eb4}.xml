@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c214e8c3-45a0-47c1-8ffa-83288aaf1eb4}">
+		<property name="assetPath">
+			<value>SFX_Character_SPC_Duplication.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>6.249977324263039</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{fedde217-7611-43df-8c5f-11bb5b944d63}</destination>
+		</relationship>
+	</object>
+</objects>

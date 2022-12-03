@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{b4cd8b8e-1bb0-4c1d-b224-09fbe1ec0346}">
+		<property name="name">
+			<value>Idie</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1adcff09-534d-4a92-9aab-052ee829518a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{cea1b3a4-907d-442e-aab6-02d26e722a7c}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{cea1b3a4-907d-442e-aab6-02d26e722a7c}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>봉 돌리기</value>
+			<value>프레이 딱밤</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

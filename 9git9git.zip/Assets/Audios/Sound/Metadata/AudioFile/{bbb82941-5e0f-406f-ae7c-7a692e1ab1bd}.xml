@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{bbb82941-5e0f-406f-ae7c-7a692e1ab1bd}">
+		<property name="assetPath">
+			<value>SFX_MPC_Crap_002.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.4870748299319727</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{fedde217-7611-43df-8c5f-11bb5b944d63}</destination>
+		</relationship>
+	</object>
+</objects>

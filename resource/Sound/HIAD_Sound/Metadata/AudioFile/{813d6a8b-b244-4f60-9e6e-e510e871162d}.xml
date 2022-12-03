@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{813d6a8b-b244-4f60-9e6e-e510e871162d}">
+		<property name="assetPath">
+			<value>MnGn_Barrel_Down.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>3.1289583333333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ef14b30b-1c7a-4c74-a81f-159458061e4a}</destination>
+		</relationship>
+	</object>
+</objects>

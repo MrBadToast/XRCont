@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{a6891088-4bce-4a1b-b504-45bdd295a611}">
+		<property name="name">
+			<value>SFX_Creature_Mag_Move</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1adcff09-534d-4a92-9aab-052ee829518a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{a957298d-1378-4c30-b01c-6b6b80549ba1}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{a957298d-1378-4c30-b01c-6b6b80549ba1}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>이동</value>
+			<value>도착</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

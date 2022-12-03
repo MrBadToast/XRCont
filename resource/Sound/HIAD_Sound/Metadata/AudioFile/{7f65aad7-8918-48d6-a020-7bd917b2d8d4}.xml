@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{7f65aad7-8918-48d6-a020-7bd917b2d8d4}">
+		<property name="assetPath">
+			<value>Swish_Swing_Baseball_Bat2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.67938775510204086</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ef14b30b-1c7a-4c74-a81f-159458061e4a}</destination>
+		</relationship>
+	</object>
+</objects>

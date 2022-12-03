@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{fcf9dc29-708f-48ea-96f2-e35c283d9081}">
+		<property name="assetPath">
+			<value>SFX_MPC_Jump_Land_003.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.25326530612244896</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{fedde217-7611-43df-8c5f-11bb5b944d63}</destination>
+		</relationship>
+	</object>
+</objects>

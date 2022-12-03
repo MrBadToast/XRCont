@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{ecd1065d-6576-4d40-9635-719bfdda9811}">
+		<property name="assetPath">
+			<value>Amb_Birds_ForestPark.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>153.80873015873016</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ef14b30b-1c7a-4c74-a81f-159458061e4a}</destination>
+		</relationship>
+	</object>
+</objects>

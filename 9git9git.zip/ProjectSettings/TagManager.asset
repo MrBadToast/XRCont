@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Level_Hidden
+  - StableSavepoint
+  - Ground_Land
+  - Ground_Wood
+  - Ground_Rock
+  - Ground_Thorn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - WzObject
+  - Player
+  - WithOutPlayer
+  - CameraBound
+  - IgnoreClap
+  - PlayerDamage
+  - StableSavePoint
+  - 
+  - 
+  - Enemy
+  - PrayGround
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3347165127
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: WhiteZone
+    uniqueID: 2766929183
+    locked: 0
+  - name: IgnoreClap
+    uniqueID: 3745098689
+    locked: 0
+  - name: Mask
+    uniqueID: 243869721
+    locked: 0

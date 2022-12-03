@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{658e0238-7a54-481a-94a6-1adef2909347}">
+		<property name="name">
+			<value>pray</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c1b7022b-8a27-443c-a339-1e1bd76aa802}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{718e5938-4f85-49da-8206-fcd86951154c}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{718e5938-4f85-49da-8206-fcd86951154c}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>move</value>
+			<value>teleport</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

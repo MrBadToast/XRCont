@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{73ebad20-9507-4ab7-84d3-d9dfde6585f0}">
+		<property name="name">
+			<value>BGM_Title_Victim</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1adcff09-534d-4a92-9aab-052ee829518a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{e2e19ecd-88a7-4905-8f0b-b229628dedf9}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{e2e19ecd-88a7-4905-8f0b-b229628dedf9}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

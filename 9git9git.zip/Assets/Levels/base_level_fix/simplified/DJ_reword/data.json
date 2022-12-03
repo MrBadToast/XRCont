@@ -1,0 +1,67 @@
+{
+	"x": 4416,
+	"y": 4152,
+	"width": 1920,
+	"height": 1024,
+	"iid": "0657aaa0-2a00-11ed-92ae-89b2fcfab174",
+	"layers": [
+		"IntGrid.png",
+		"Tiles.png"
+	],
+	"entities": {
+		"ReWord": [
+			{
+				"id": "ReWord",
+				"iid": "85b6ec50-5110-11ed-b2af-f19dcac55242",
+				"layer": "Entities",
+				"x": 928,
+				"y": 224,
+				"width": 64,
+				"height": 64,
+				"color": 8597782,
+				"customFields": {
+					"Reword": "HP"
+				}
+			},
+			{
+				"id": "ReWord",
+				"iid": "905dd240-5110-11ed-b2af-8df584896d58",
+				"layer": "Entities",
+				"x": 1696,
+				"y": 224,
+				"width": 64,
+				"height": 64,
+				"color": 8597782,
+				"customFields": {
+					"Reword": "MP"
+				}
+			}
+		],
+		"Monster_Eerht": [
+			{
+				"id": "Monster_Eerht",
+				"iid": "8835fa90-5110-11ed-8cc9-b15939f6ac45",
+				"layer": "Entities",
+				"x": 1440,
+				"y": 800,
+				"width": 64,
+				"height": 64,
+				"color": 9755059,
+				"customFields" : {}
+			}
+		],
+		"DefaultSavePoint": [
+			{
+				"id": "DefaultSavePoint",
+				"iid": "d240e780-5110-11ed-8cc9-95c07aa026d8",
+				"layer": "Entities",
+				"x": 32,
+				"y": 800,
+				"width": 64,
+				"height": 64,
+				"color": 9755059,
+				"customFields" : {}
+			}
+		]
+	}
+}

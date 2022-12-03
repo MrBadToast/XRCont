@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{7022e899-519b-45a7-b514-89cfaed8b9bf}">
+		<property name="name">
+			<value>C-Control</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c1b7022b-8a27-443c-a339-1e1bd76aa802}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{bc9461bb-d302-491e-adca-b9c4454f29a1}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{bc9461bb-d302-491e-adca-b9c4454f29a1}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Start</value>
+			<value>Ammo</value>
+			<value>Stop</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

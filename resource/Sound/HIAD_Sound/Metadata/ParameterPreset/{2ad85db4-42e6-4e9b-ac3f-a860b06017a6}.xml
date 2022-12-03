@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{2ad85db4-42e6-4e9b-ac3f-a860b06017a6}">
+		<property name="name">
+			<value>crap back</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c1b7022b-8a27-443c-a339-1e1bd76aa802}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{2c7d5922-284d-4e32-ad80-14d39010499d}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{2c7d5922-284d-4e32-ad80-14d39010499d}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>base</value>
+			<value>crap</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

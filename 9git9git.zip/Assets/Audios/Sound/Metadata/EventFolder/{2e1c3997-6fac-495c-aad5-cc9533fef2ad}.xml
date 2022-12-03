@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{2e1c3997-6fac-495c-aad5-cc9533fef2ad}">
+		<property name="name">
+			<value>Senot</value>
+		</property>
+		<relationship name="folder">
+			<destination>{5772e396-7feb-43a3-bbf3-ae2980c886c7}</destination>
+		</relationship>
+	</object>
+</objects>

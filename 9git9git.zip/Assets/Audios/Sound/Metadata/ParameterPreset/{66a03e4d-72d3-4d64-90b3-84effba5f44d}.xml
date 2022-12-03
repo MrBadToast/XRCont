@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{66a03e4d-72d3-4d64-90b3-84effba5f44d}">
+		<property name="name">
+			<value>SFX_Character_SPC_Attack</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1adcff09-534d-4a92-9aab-052ee829518a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{5ea9ee80-6554-4b5d-9c78-b12179d55223}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{5ea9ee80-6554-4b5d-9c78-b12179d55223}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>조준</value>
+			<value>발사</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

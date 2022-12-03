@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{6ae45c15-5f37-484e-a4df-c0953fa411ec}">
+		<property name="name">
+			<value>SFX_Character_Idie_Orgel</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1adcff09-534d-4a92-9aab-052ee829518a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{ebff30d3-974c-410c-a898-2cf6bd3e9dff}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{ebff30d3-974c-410c-a898-2cf6bd3e9dff}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>오르골 소환</value>
+			<value>BGM 출력</value>
+			<value>BGM 종료 or 캔슬</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

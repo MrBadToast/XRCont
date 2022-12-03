@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2dcc515b42cd5b14fad2f31db5163418
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _T_FiveLine: {fileID: 2800000, guid: 7a8b81e853f6f564096503ee1ea1d27e, type: 3}
+  - _T_Cloud_03: {fileID: 2800000, guid: 255a6c40cc2354942bf6aa12cac9d325, type: 3}
+  - _T_Cloud_01: {fileID: 2800000, guid: 06742e5a745761f4f823511cd5925859, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

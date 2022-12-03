@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{f3ae8791-7820-4bbd-b164-5649025b56bf}">
+		<property name="name">
+			<value>AMB_Stage_Forest</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1adcff09-534d-4a92-9aab-052ee829518a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{a4bbc8a4-2630-4e0e-b42e-96712d9f3a51}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{a4bbc8a4-2630-4e0e-b42e-96712d9f3a51}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>1</value>
+		</property>
+	</object>
+</objects>

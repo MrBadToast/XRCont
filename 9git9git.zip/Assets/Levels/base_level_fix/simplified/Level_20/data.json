@@ -1,0 +1,54 @@
+{
+	"x": 6336,
+	"y": 640,
+	"width": 1920,
+	"height": 1408,
+	"iid": "a1a53120-2a00-11ed-92ae-c7404af42e79",
+	"layers": [
+		"IntGrid.png",
+		"Tiles.png"
+	],
+	"entities": {
+		"Monster_Eerht": [
+			{
+				"id": "Monster_Eerht",
+				"iid": "2326da70-5110-11ed-8b02-dd5772a1b719",
+				"layer": "Entities",
+				"x": 1504,
+				"y": 992,
+				"width": 64,
+				"height": 64,
+				"color": 9755059,
+				"customFields" : {}
+			}
+		],
+		"ReWord": [
+			{
+				"id": "ReWord",
+				"iid": "606736c0-5110-11ed-8b02-2f588e60417b",
+				"layer": "Entities",
+				"x": 1376,
+				"y": 416,
+				"width": 64,
+				"height": 64,
+				"color": 8597782,
+				"customFields": {
+					"Reword": "HP"
+				}
+			}
+		],
+		"DefaultSavePoint": [
+			{
+				"id": "DefaultSavePoint",
+				"iid": "b3f94970-5110-11ed-8cc9-d9de891c4fc6",
+				"layer": "Entities",
+				"x": 32,
+				"y": 1248,
+				"width": 64,
+				"height": 64,
+				"color": 9755059,
+				"customFields" : {}
+			}
+		]
+	}
+}

@@ -1,0 +1,39 @@
+{
+	"x": 10176,
+	"y": 5168,
+	"width": 1920,
+	"height": 1152,
+	"iid": "fbd53240-5110-11ed-857f-69675223a447",
+	"layers": [
+		"IntGrid.png",
+		"Tiles.png"
+	],
+	"entities": {
+		"Monster_Mag": [
+			{
+				"id": "Monster_Mag",
+				"iid": "927e1eb0-5110-11ed-8cc9-35eb542c509d",
+				"layer": "Entities",
+				"x": 352,
+				"y": 800,
+				"width": 64,
+				"height": 64,
+				"color": 9755059,
+				"customFields" : {}
+			}
+		],
+		"DefaultSavePoint": [
+			{
+				"id": "DefaultSavePoint",
+				"iid": "d73efb00-5110-11ed-8cc9-f99bcda41ca8",
+				"layer": "Entities",
+				"x": 32,
+				"y": 1056,
+				"width": 64,
+				"height": 64,
+				"color": 9755059,
+				"customFields" : {}
+			}
+		]
+	}
+}

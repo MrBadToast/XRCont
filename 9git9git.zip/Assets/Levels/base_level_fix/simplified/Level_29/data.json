@@ -1,0 +1,54 @@
+{
+	"x": 8256,
+	"y": 5312,
+	"width": 1920,
+	"height": 1080,
+	"iid": "176f6390-5110-11ed-857f-59e3e8cf49ce",
+	"layers": [
+		"IntGrid.png",
+		"Tiles.png"
+	],
+	"entities": {
+		"Monster_Corie": [
+			{
+				"id": "Monster_Corie",
+				"iid": "901d9970-5110-11ed-8cc9-e9af692ea8f5",
+				"layer": "Entities",
+				"x": 1056,
+				"y": 928,
+				"width": 64,
+				"height": 64,
+				"color": 9755059,
+				"customFields" : {}
+			}
+		],
+		"DefaultSavePoint": [
+			{
+				"id": "DefaultSavePoint",
+				"iid": "d62e9c70-5110-11ed-8cc9-c3d92a1881b4",
+				"layer": "Entities",
+				"x": 32,
+				"y": 672,
+				"width": 64,
+				"height": 64,
+				"color": 9755059,
+				"customFields" : {}
+			}
+		],
+		"ReWord": [
+			{
+				"id": "ReWord",
+				"iid": "f1367f30-5110-11ed-8cc9-35a2ec69cf6f",
+				"layer": "Entities",
+				"x": 736,
+				"y": 544,
+				"width": 64,
+				"height": 64,
+				"color": 8597782,
+				"customFields": {
+					"Reword": "MP"
+				}
+			}
+		]
+	}
+}

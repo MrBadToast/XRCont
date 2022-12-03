@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{72d34df6-2c01-4c7c-8eba-cad081b78813}">
+		<property name="name">
+			<value>Spin</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1adcff09-534d-4a92-9aab-052ee829518a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{2219f127-f7bf-4e75-b430-5dbbec3014d0}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{2219f127-f7bf-4e75-b430-5dbbec3014d0}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>빠른 회전</value>
+			<value>연속 회전</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

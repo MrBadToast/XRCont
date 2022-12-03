@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 165ad4744b54108479b8988285ce5db2
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _T_DisLine_03: {fileID: 2800000, guid: 6c4d34ad90e9be340b67877395203bb6, type: 3}
+  - _T_Line_02: {fileID: 2800000, guid: 69c4f4ac907cd214bbdf03c10da2e165, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{f59d3812-329d-425b-a1ab-210961e91869}">
+		<property name="name">
+			<value>BGM_End_Birthday Kid</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1adcff09-534d-4a92-9aab-052ee829518a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{041e90de-9c46-420d-8c51-67e3d72e9fe6}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{041e90de-9c46-420d-8c51-67e3d72e9fe6}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>루프</value>
+			<value>종료</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

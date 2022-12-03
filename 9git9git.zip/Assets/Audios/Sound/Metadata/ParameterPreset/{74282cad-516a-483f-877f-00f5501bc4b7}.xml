@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{74282cad-516a-483f-877f-00f5501bc4b7}">
+		<property name="name">
+			<value>BGM_Stage_Endless</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1adcff09-534d-4a92-9aab-052ee829518a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{10562860-154e-40d1-8b6c-bf375ede59bc}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{10562860-154e-40d1-8b6c-bf375ede59bc}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>1</value>
+		</property>
+	</object>
+</objects>

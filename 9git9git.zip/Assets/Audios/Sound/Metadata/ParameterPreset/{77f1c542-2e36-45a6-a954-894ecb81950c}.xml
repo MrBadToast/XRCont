@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{77f1c542-2e36-45a6-a954-894ecb81950c}">
+		<property name="name">
+			<value>DJump</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1adcff09-534d-4a92-9aab-052ee829518a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{500d15e5-66b3-43b0-90ea-c7f50a76ffeb}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{500d15e5-66b3-43b0-90ea-c7f50a76ffeb}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

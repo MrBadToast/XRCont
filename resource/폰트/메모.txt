@@ -1,0 +1,16 @@
+아래는 UI제작 시 적용한 폰트정보입니다!
+
+* 환경설정 *
+
+디스플레이/사운드/컨트롤
+pretendard - medium 48pt
+
+해상도 등의 세부항목
+pretendard - light 48pt
+
+숫자
+monoplex KR Nerd - regular 48pt
+
+
+일시정지 : 빛의 계승자(regular) 115pt
+항목 : pretendard - regular 76pt

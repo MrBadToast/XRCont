@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{bd78ec2d-c68b-4331-924b-f1e3ab71e83d}">
+		<property name="name">
+			<value>Mot_Attack</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1adcff09-534d-4a92-9aab-052ee829518a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{d1481d11-7c77-4981-9d90-4a9057a03528}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{d1481d11-7c77-4981-9d90-4a9057a03528}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>충전</value>
+			<value>발사</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

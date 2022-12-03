@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{b81c5682-1b50-4fcc-84e6-07fe82397c6a}">
+		<property name="name">
+			<value>SFX_Character_PC_Jump</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1adcff09-534d-4a92-9aab-052ee829518a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{ad06dfbf-d14a-40ba-9f98-f7d976cf9cfa}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{ad06dfbf-d14a-40ba-9f98-f7d976cf9cfa}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>4</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Land</value>
+			<value>Wood</value>
+			<value>Rock</value>
+			<value>Thorn</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

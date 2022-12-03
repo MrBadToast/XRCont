@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{1e7683d3-4e0f-406d-9f51-83280d2f6b7e}">
+		<property name="name">
+			<value>SFX_Creature_Mag_Shoot</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1adcff09-534d-4a92-9aab-052ee829518a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{0e53a082-3da4-4ba9-ae5b-32c7b11f6280}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{0e53a082-3da4-4ba9-ae5b-32c7b11f6280}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>발사</value>
+			<value>착탄</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

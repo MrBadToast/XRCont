@@ -1,0 +1,109 @@
+{
+"skeleton": {
+	"hash": "2Mb6+X8PgMw",
+	"spine": "4.1.17",
+	"x": -57.58,
+	"y": -42.63,
+	"width": 116.22,
+	"height": 108.19,
+	"images": "../images/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "body", "parent": "root", "rotation": -0.12, "x": 11.48, "y": 4.16 },
+	{ "name": "earht_flower", "parent": "body", "x": -37.06, "y": 41.13 }
+],
+"slots": [
+	{ "name": "earht_top", "bone": "body", "attachment": "earht_top" },
+	{ "name": "earht_flower", "bone": "earht_flower", "attachment": "earht_flower" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"earht_flower": {
+				"earht_flower": { "x": -4.4, "y": 1.64, "width": 41, "height": 37 }
+			},
+			"earht_top": {
+				"earht_top": {
+					"type": "mesh",
+					"uvs": [ 0.99809, 0.50499, 1.0E-5, 0.51335, 0, 0, 1, 0 ],
+					"triangles": [ 0, 2, 3, 1, 2, 0 ],
+					"vertices": [ 46.82, -45.24, -68.96, -46.94, -68.96, 57.27, 47.04, 57.27 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 116,
+					"height": 203
+				}
+			}
+		}
+	}
+],
+"animations": {
+	"death": {
+		"bones": {
+			"body": {
+				"rotate": [
+					{},
+					{ "time": 0.0667, "value": -80 },
+					{ "time": 0.1333, "value": -150 },
+					{ "time": 0.2, "value": -220 },
+					{ "time": 0.2667, "value": -290 },
+					{ "time": 0.3333, "value": -360 }
+				]
+			}
+		}
+	},
+	"idle": {
+		"bones": {
+			"earht_flower": {
+				"rotate": [
+					{
+						"value": -1.84,
+						"curve": [ 0.127, -0.84, 0.247, 0 ]
+					},
+					{ "time": 0.3333, "curve": "stepped" },
+					{
+						"time": 0.5,
+						"curve": [ 0.708, 0, 1.125, 15 ]
+					},
+					{
+						"time": 1.3333,
+						"value": 15,
+						"curve": [ 1.542, 15, 1.958, 0 ]
+					},
+					{ "time": 2.1667, "curve": "stepped" },
+					{
+						"time": 2.3333,
+						"curve": [ 2.542, 0, 2.958, -15 ]
+					},
+					{
+						"time": 3.1667,
+						"value": -15,
+						"curve": [ 3.289, -15, 3.485, -7.69 ]
+					},
+					{ "time": 3.6667, "value": -1.84 }
+				]
+			}
+		}
+	},
+	"spawn": {
+		"bones": {
+			"body": {
+				"rotate": [
+					{ "time": 1.3333 },
+					{ "time": 1.3667, "value": 30 },
+					{ "time": 1.4, "value": 60 },
+					{ "time": 1.4333, "value": 90 },
+					{ "time": 1.4667, "value": 120 },
+					{ "time": 1.5, "value": 150 },
+					{ "time": 1.5333, "value": 180 },
+					{ "time": 1.5667, "value": 210 },
+					{ "time": 1.6667, "value": 360 }
+				]
+			}
+		}
+	}
+}
+}

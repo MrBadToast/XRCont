@@ -1,0 +1,71 @@
+fileFormatVersion: 2
+guid: 44803f8f83631354bbc5efdc13115b62
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: aaa16bfc62c086f4fb45da87b6acf9b1, type: 3}
+  _jsonFile: {fileID: -164016180542632921, guid: 44803f8f83631354bbc5efdc13115b62, type: 3}
+  _pixelsPerUnit: 64
+  _atlas: {fileID: 4343727234628468602, guid: d30066798086ba442b130c3a8d285522, type: 2}
+  _customLevelPrefab: {instanceID: 0}
+  _deparentInRuntime: 0
+  _intGridValueColorsVisible: 0
+  _useCompositeCollider: 1
+  _createBackgroundColor: 0
+  _intGridValues:
+  - _key: IntGrid_1
+    _asset: {fileID: 11400000, guid: 0fb4eba720b1c0d44a15a59d60fbd056, type: 2}
+  - _key: IntGrid_3
+    _asset: {instanceID: 0}
+  - _key: IntGrid_4
+    _asset: {fileID: 11400000, guid: c199b718ee0143c4dbdb8fc2bf05fa5c, type: 2}
+  - _key: IntGrid_5
+    _asset: {fileID: 11400000, guid: dc8c3fce94905aa40a4df3d8bd78cedb, type: 2}
+  _entities:
+  - _key: Player
+    _asset: {instanceID: 0}
+  - _key: Memo
+    _asset: {instanceID: 0}
+  - _key: Wall
+    _asset: {instanceID: 0}
+  - _key: ReWord
+    _asset: {instanceID: 0}
+  - _key: Power
+    _asset: {fileID: 8272903695159260242, guid: f85bc4379d73ddf468ccb34913580f10, type: 3}
+  - _key: SevePoint
+    _asset: {instanceID: 0}
+  - _key: Monster
+    _asset: {instanceID: 0}
+  - _key: Monster2
+    _asset: {instanceID: 0}
+  - _key: Entity
+    _asset: {instanceID: 0}
+  - _key: DefaultSavePoint
+    _asset: {instanceID: 0}
+  - _key: Power_Dash
+    _asset: {fileID: 8272903695159260242, guid: f85bc4379d73ddf468ccb34913580f10, type: 3}
+  - _key: Power_DoubleJump
+    _asset: {fileID: 8272903695159260242, guid: 37554aad5b5d7eb4caf2955d2dd62926, type: 3}
+  - _key: Power_Throw
+    _asset: {fileID: 8272903695159260242, guid: c98e012af9a5b8f42b78022918731b92, type: 3}
+  - _key: Power_Rotation
+    _asset: {fileID: 8272903695159260242, guid: 5b5c70f8867ad8441927da5256e7fbf3, type: 3}
+  - _key: Monster_Senot
+    _asset: {fileID: 5575251977708196925, guid: 28ac2879579b01343acb18fadfb704ae, type: 3}
+  - _key: Monster_Eerht
+    _asset: {fileID: 4017555092316136254, guid: fd10fc824adaf084f81ba644190016f4, type: 3}
+  - _key: Monster_Mot
+    _asset: {fileID: 4062855831596094333, guid: c2325aaf9401af449b582ec1f81c4ba8, type: 3}
+  - _key: Monster_Corie
+    _asset: {fileID: 4062855831596094333, guid: c2325aaf9401af449b582ec1f81c4ba8, type: 3}
+  - _key: Monster_Mag
+    _asset: {fileID: 1585753990714919260, guid: 778d7b338bfc8b5449547b456d59af53, type: 3}
+  - _key: Monster_Boss
+    _asset: {instanceID: 0}
+  _enumGenerate: 0
+  _enumPath: 
+  _enumNamespace: 

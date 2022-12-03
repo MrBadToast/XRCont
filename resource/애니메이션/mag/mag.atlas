@@ -1,0 +1,174 @@
+
+매그.png
+size: 152,975
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_wing
+  rotate: true
+  xy: 2, 322
+  size: 43, 111
+  orig: 45, 113
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 2, 652
+  size: 134, 106
+  orig: 136, 108
+  offset: 1, 1
+  index: -1
+dew
+  rotate: false
+  xy: 123, 500
+  size: 27, 14
+  orig: 29, 16
+  offset: 1, 1
+  index: -1
+f_foot 1
+  rotate: true
+  xy: 134, 543
+  size: 45, 14
+  orig: 48, 16
+  offset: 1, 1
+  index: -1
+f_foot 2
+  rotate: true
+  xy: 123, 457
+  size: 41, 23
+  orig: 46, 26
+  offset: 1, 1
+  index: -1
+f_leg 1
+  rotate: true
+  xy: 107, 250
+  size: 53, 41
+  orig: 56, 43
+  offset: 2, 1
+  index: -1
+f_leg 2
+  rotate: false
+  xy: 99, 157
+  size: 39, 53
+  orig: 42, 56
+  offset: 1, 2
+  index: -1
+f_wing
+  rotate: false
+  xy: 2, 82
+  size: 94, 90
+  orig: 97, 92
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 2, 456
+  size: 119, 105
+  orig: 122, 112
+  offset: 2, 6
+  index: -1
+leaf body 1
+  rotate: true
+  xy: 2, 760
+  size: 121, 136
+  orig: 123, 142
+  offset: 1, 1
+  index: -1
+leaf body 2
+  rotate: true
+  xy: 2, 883
+  size: 90, 145
+  orig: 92, 148
+  offset: 1, 1
+  index: -1
+leaf body 3
+  rotate: true
+  xy: 2, 563
+  size: 87, 130
+  orig: 89, 133
+  offset: 1, 1
+  index: -1
+mag_stunring
+  rotate: false
+  xy: 78, 8
+  size: 72, 72
+  orig: 74, 74
+  offset: 1, 1
+  index: -1
+mag_stunstar
+  rotate: false
+  xy: 98, 125
+  size: 30, 30
+  orig: 33, 33
+  offset: 1, 1
+  index: -1
+mouth
+  rotate: true
+  xy: 123, 407
+  size: 48, 20
+  orig: 53, 26
+  offset: 4, 1
+  index: -1
+r_foot 1
+  rotate: true
+  xy: 134, 590
+  size: 60, 15
+  orig: 62, 17
+  offset: 1, 1
+  index: -1
+r_foot 2
+  rotate: true
+  xy: 121, 355
+  size: 50, 13
+  orig: 52, 15
+  offset: 1, 1
+  index: -1
+r_leg 1
+  rotate: false
+  xy: 2, 174
+  size: 95, 78
+  orig: 97, 86
+  offset: 1, 6
+  index: -1
+r_leg 2
+  rotate: true
+  xy: 2, 2
+  size: 78, 74
+  orig: 80, 81
+  offset: 1, 6
+  index: -1
+tale 1
+  rotate: false
+  xy: 2, 254
+  size: 103, 66
+  orig: 105, 69
+  offset: 1, 2
+  index: -1
+tale 2
+  rotate: true
+  xy: 115, 305
+  size: 48, 33
+  orig: 50, 39
+  offset: 1, 5
+  index: -1
+tale 3
+  rotate: false
+  xy: 123, 516
+  size: 27, 25
+  orig: 33, 29
+  offset: 5, 1
+  index: -1
+tale body
+  rotate: false
+  xy: 2, 367
+  size: 117, 87
+  orig: 120, 89
+  offset: 2, 1
+  index: -1
+tale leaf
+  rotate: false
+  xy: 99, 212
+  size: 40, 36
+  orig: 42, 38
+  offset: 1, 1
+  index: -1

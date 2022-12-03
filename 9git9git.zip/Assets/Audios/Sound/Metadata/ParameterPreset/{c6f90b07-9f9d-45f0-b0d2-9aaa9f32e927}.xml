@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{c6f90b07-9f9d-45f0-b0d2-9aaa9f32e927}">
+		<property name="name">
+			<value>SFX_Creature_Corie_Idie</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1adcff09-534d-4a92-9aab-052ee829518a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{4e80e21c-c0ba-4581-be5a-ca2be518e88b}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{4e80e21c-c0ba-4581-be5a-ca2be518e88b}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>대기</value>
+			<value>땅파기</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

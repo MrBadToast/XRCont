@@ -1,0 +1,50 @@
+{
+	"x": 14016,
+	"y": 3072,
+	"width": 1920,
+	"height": 1080,
+	"iid": "2f2f9d50-5110-11ed-a9ac-7960debca2db",
+	"layers": [
+		"IntGrid.png",
+		"Tiles.png"
+	],
+	"entities": {
+		"Monster_Mot": [
+			{
+				"id": "Monster_Mot",
+				"iid": "9b6c0a00-5110-11ed-8cc9-bb1e49ccda5a",
+				"layer": "Entities",
+				"x": 480,
+				"y": 928,
+				"width": 64,
+				"height": 64,
+				"color": 9755059,
+				"customFields" : {}
+			},
+			{
+				"id": "Monster_Mot",
+				"iid": "9bd998e0-5110-11ed-8cc9-cd839291f06f",
+				"layer": "Entities",
+				"x": 1184,
+				"y": 736,
+				"width": 64,
+				"height": 64,
+				"color": 9755059,
+				"customFields" : {}
+			}
+		],
+		"DefaultSavePoint": [
+			{
+				"id": "DefaultSavePoint",
+				"iid": "dec60350-5110-11ed-8cc9-a5218d90735b",
+				"layer": "Entities",
+				"x": 32,
+				"y": 928,
+				"width": 64,
+				"height": 64,
+				"color": 9755059,
+				"customFields" : {}
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"x": 14016,
+	"y": 4152,
+	"width": 2880,
+	"height": 1080,
+	"iid": "9df31a00-5110-11ed-8b02-35bab81538f1",
+	"layers": [
+		"IntGrid.png",
+		"Tiles.png"
+	],
+	"entities" : {}
+}

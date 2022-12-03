@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{38559dca-f515-4646-9913-4aa207b5d23e}">
+		<property name="name">
+			<value>SFX_Character_SPC_Copy</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1adcff09-534d-4a92-9aab-052ee829518a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{adfd21da-8e81-4d2f-b2d2-d8818f65adfa}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{adfd21da-8e81-4d2f-b2d2-d8818f65adfa}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>복사</value>
+			<value>성공</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

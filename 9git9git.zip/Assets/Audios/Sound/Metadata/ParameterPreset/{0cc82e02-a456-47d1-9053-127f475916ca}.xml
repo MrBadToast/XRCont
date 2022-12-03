@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{0cc82e02-a456-47d1-9053-127f475916ca}">
+		<property name="name">
+			<value>SFX_Creature_Corie_Attack</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1adcff09-534d-4a92-9aab-052ee829518a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{eff52909-430d-44b7-b016-198bfb2386b6}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{eff52909-430d-44b7-b016-198bfb2386b6}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>돌진</value>
+			<value>정지</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

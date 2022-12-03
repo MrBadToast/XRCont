@@ -1,0 +1,11 @@
+earht.png
+size:157,109
+filter:Linear,Linear
+pma:true
+earht_flower
+bounds:120,68,39,35
+offsets:1,1,41,37
+rotate:90
+earht_top
+bounds:2,2,116,105
+offsets:0,98,116,203

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 547ac20b441500e498f672753c5d2e02
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _T_Line_08: {fileID: 2800000, guid: b1acc3ba8f143b34eb6f6ed453c36207, type: 3}
+  - _T_Caustic_01: {fileID: 2800000, guid: e3ff12c730d0158408856f5469c9817e, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
